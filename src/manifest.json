@@ -1,0 +1,20 @@
+{
+  "name": "LocateCoordinates",
+  "label": "Locate Coordinates",
+  "platform": "HTML",
+  "version": "0.1",
+  "wabVersion": "1.2",
+  "author": "Shaun Weston",
+  "description": "Locate coordinates on a map.",
+  "copyright": "2015",
+  "properties": {  
+	"inPanel":true,  
+	"hasLocale": true,  
+	"hasStyle":true,  
+	"hasConfig":true,  
+	"hasUIFile":true,  
+	"hasSettingPage":true,  
+	"IsController":false  
+  },
+  "license": "http://www.apache.org/licenses/LICENSE-2.0"
+}
